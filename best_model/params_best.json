@@ -1,0 +1,12 @@
+{
+  "LIMIT": 5000000,
+  "MODULUS": 30,
+  "annihilation": 2.3,
+  "neutral": 1.55,
+  "coupling": 0.85,
+  "reg": 1.48,
+  "global_scale": 7.1,
+  "weight_exponent": 0.85,
+  "noise_level": 0.003,
+  "best_error_percent": 25.6
+}
